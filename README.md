@@ -6,9 +6,15 @@
 -   Jandira
 -   Gervásio
 
+
+# Dicas
+**Editor:** https://pandao.github.io/editor.md/en.html
+
+**Manual de Markdown:** https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown
+
 # Descrição
 
-Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
+Uma **cadeia de lojas** contratou uma empresa para desenvolver um sistema. 
 
 Sendo assim, você foi contratado para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema. 
 
