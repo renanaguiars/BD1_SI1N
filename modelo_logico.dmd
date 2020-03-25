@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_logico" id="FB840F7C-0441-9E7B-6DAB-C3C5AC6054D9" version="3.5">
+<createdBy>novaes</createdBy>
+<createdTime>2020-03-12 22:19:05 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FB840F7C-0441-9E7B-6DAB-C3C5AC6054D9</designId>
+</OSDM_Design>
