@@ -1,9 +1,12 @@
-Turma:  SI1N
+# Cabeçalho
+**Turma:**  SI1N
 
-Componentes:
-  Marcello
-  Jandira
-  Gervásio
+**Componentes:**
+-   Marcello
+-   Jandira
+-   Gervásio
+
+# Descrição
 
 Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
 
