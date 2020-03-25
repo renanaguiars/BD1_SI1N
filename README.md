@@ -1,4 +1,9 @@
-# BD1_SI1N
+Turma:  SI1N
+
+Componentes:
+  Marcello
+  Jandira
+  Gervásio
 
 Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
 
