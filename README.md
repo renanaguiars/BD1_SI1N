@@ -16,6 +16,10 @@
 
 Uma **cadeia de lojas** contratou uma empresa para desenvolver um sistema. 
 
+
+![Banner de uma cadeia de lojas](https://www.uvv.br/wp-content/uploads/1816-Comun_Inst_Campanha_Coronav%C3%ADrus_Banner_Site_Urgente.png)
+
+
 Sendo assim, você foi contratado para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema. 
 
 O banco de dados será utilizado por sistemas responsáveis pelas vendas e pelo controle de estoque.
